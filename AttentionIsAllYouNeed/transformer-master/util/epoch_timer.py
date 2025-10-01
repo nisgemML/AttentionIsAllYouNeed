@@ -1,8 +1,4 @@
-"""
-@author : Hyunwoong
-@when : 2019-10-29
-@homepage : https://github.com/gusdnd852
-"""
+
 
 
 def epoch_time(start_time, end_time):
